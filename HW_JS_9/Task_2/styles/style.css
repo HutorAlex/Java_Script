@@ -1,0 +1,14 @@
+.menu {
+    list-style-type: none;
+    padding: 0;
+}
+
+.menu li {
+    margin: 5px 0;
+    font-family: Arial, sans-serif;
+    cursor: pointer;
+}
+
+.menu li:hover {
+    color: blue;
+}
